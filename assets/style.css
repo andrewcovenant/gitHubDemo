@@ -1,0 +1,35 @@
+.max-height-570 {
+  max-height: 570px;
+}
+.background-gray {
+  background-color: #7f7f7f;
+}
+.background-blue {
+  background-color: #00bcd4;
+}
+.background-orange {
+  background-color: #ff8f50;
+}
+
+.service-info {
+  position: relative;
+}
+.service-info:hover:after {
+  content: "";
+  position: absolute;
+  height: 10px;
+  top: -10px;
+  right: 0;
+  left: 0;
+  background-color: red;
+}
+
+.overlay {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000;
+  z-index: 1;
+  opacity: 50%;
+}
