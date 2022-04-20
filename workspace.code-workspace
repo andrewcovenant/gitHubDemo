@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "E:\\IT\\exercitii partea 3\\first-site"
+	},
+	{
+		"path": "E:\\IT\\Proiect de echipa - Site creme\\Site creme"
+	},
+	{
+		"path": "E:\\IT\\Proiect de echipa Bootstrap"
+	},
+	{
+		"path": "E:\\IT\\Boostrap-mdb"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Boostrap-mdb"
+  }
+}
