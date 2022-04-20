@@ -33,3 +33,7 @@
   z-index: 1;
   opacity: 50%;
 }
+
+.provide-services h3 {
+  color: red;
+}
